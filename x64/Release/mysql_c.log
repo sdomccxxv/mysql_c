@@ -1,7 +1,7 @@
 ﻿  mysql_c.cpp
   Generando código
-  9 of 126 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
+  17 of 134 functions (12.7%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
     23 functions had inline decision re-evaluated but remain unchanged
   Generación de código finalizada
   mysql_c.vcxproj -> D:\OneDrive - Universidad Mariano Gálvez\U\3er Semestre\1. Progra I\10042021\mysql_c\x64\Release\mysql_c.exe
